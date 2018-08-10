@@ -1,25 +1,25 @@
-# ReduxSimpleStarter
+#Simple Weather App created with React/Redux
+An app that will display the temperature, humidity, and pressure of a city the user searches for.
+The data from searches will be saved and continued to be displayed.
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Utilizes redux actions to get data from WeatherAPI using ajax calls.
+Use Google Maps
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
+#To use
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/jeffreywu1996/WeatherApp.git
 > npm install
 > npm start
 ```
 
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+
+This app is based off the ReduxSimpleStarter and the course Modern React on Udemy by Stephen Grider.
+
+#ReduxSimpleStarter
 
 ```
+> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
+> cd ReduxSimpleStarter
 > npm install
 > npm start
 ```
